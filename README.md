@@ -1,4 +1,4 @@
-# RCCar
+# BallShooter
 ## Overview
 A Ball shooting robot was built using plywood and servos. This bot can operate in two modes, one mode will control speed and the other controls the angle. The goal is to make the ball reach the varying destination. It uses an ultrasonic sensor to compute the distance of destination and maps speed or angle as needed. The whole setup is designed in Arduino environment.
 
